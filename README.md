@@ -2,8 +2,8 @@
 支持 macOS、Windows 双系统引导。
 
 ## 提示
-- OpenCore Configurator 与 OC 版本均为 0.6.0 **（保持版本一致，否则启动报错) **
-- 某些OC配置可能导致 Windows 启动时蓝屏，提示正在修复，无法启动。
+- OpenCore Configurator 与 OC 版本均为 0.6.0 （保持版本一致，否则启动报错) 
+- 某些 OC 配置可能导致 Windows 启动时提示自动修复或蓝屏，本 OC 可正常引导。
 
 ## 支持列表
 
